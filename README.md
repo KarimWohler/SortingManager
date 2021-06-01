@@ -1,7 +1,7 @@
 # SortingManager
 - This Sorting Manager project is a user friendly project that allows for the manipulation and sorting of data within a Bubble Sort, a Merge Sort and/or a Binary Tree sort. 
--|- Sort Array - which returns the sorted array as well as the time taken in milliseconds to perform such an action
--|-|- an array can be entered manually, one after the other, pressing enter after each element. Or generated randomly, by entering 'random' and defining the number of elements you wish to sort.
+  - Sort Array - which returns the sorted array as well as the time taken in milliseconds to perform such an action
+  --- an array can be entered manually, one after the other, pressing enter after each element. Or generated randomly, by entering 'random' and defining the number of elements you wish to sort.
 
 - Merge Sort
 -|- Sort Array - which returns the sorted array as well as the time taken in milliseconds to perform such an action
